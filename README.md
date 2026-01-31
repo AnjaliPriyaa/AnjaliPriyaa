@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer+%7C+Infrastructure+Engineer;Infrastructure+as+Code+Enthusiast;Automating+Cloud+Solutions;Building+Scalable+Hybrid+Cloud+Systems" alt="Typing SVG" />
 </p>
 
-I'm a **DevOps Engineer** working with Software Labs teams on **z/OS and Cloud Modernization** stack capabilities. My role focuses on enabling hybrid cloud transformation through scalable, secure, and automated solutions.
+I'm a **DevOps Engineer** at **IBM India Software Labs**, working on the **z/OS Platform** with focus on infrastructure automation and deployment workflows. I specialize in streamlining cloud infrastructure through **Terraform, Golang**, and automation frameworks, reducing manual interventions and improving deployment consistency.
 
-With a strong background in **DevOps, Infrastructure as Code (IaC), and Cloud Engineering**, I've built and managed solutions using Terraform, Ansible, Kubernetes, AWS, Azure, Jenkins, GitHub Actions, and more. Skilled in **Golang**, I'm passionate about creating developer-friendly, compliant, and efficient cloud-native environments.
+With expertise in **Infrastructure as Code (IaC), CI/CD, and Cloud Engineering**, I've built NIST-compliant Linux OS images, implemented security best practices with **Sentinel policies**, and enhanced observability using **Dynatrace and Splunk**. I work extensively with containerized applications using **Docker, Kubernetes, and OpenShift**, while managing CI/CD pipelines through **Jenkins, GitHub Actions, and Harness**.
 
-From automating Terraform deployments and enforcing Sentinel policies to building NIST-compliant OS images and enhancing observability using Dynatrace, Splunk, and Vault - I enjoy solving challenges that sit at the intersection of **development, operations, and security**.
+I'm passionate about integrating **DevSecOps principles** to create secure, reliable, and efficient cloud-native environments across **AWS and Azure**.
 
-🔹 **Certifications:** AWS Cloud Practitioner | OCI Foundations  
-🔹 **Tech Stack:** Terraform | Ansible | Docker | Kubernetes | Jenkins | GitHub Actions | Harness | Python | Golang | Shell Scripting | AWS | Azure | Dynatrace | Grafana | Splunk
+🔹 **Certifications:** AWS Certified Cloud Practitioner | Oracle Cloud Infrastructure 2024 Foundation Associate  
+🔹 **Tech Stack:** Terraform | Ansible | Packer | Docker | Kubernetes | OpenShift | Jenkins | GitHub Actions | Harness | Jfrog Artifactory | Python | Golang | Bash Scripting | Git | MySQL | AWS | Azure | OCI | Dynatrace | Splunk | Linux/Unix | Agile | DevOps
 
 
 
