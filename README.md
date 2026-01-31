@@ -69,7 +69,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <i>⭐️ From [AnjaliPriyaa](https://github.com/AnjaliPriyaa)</i>
-</p>
