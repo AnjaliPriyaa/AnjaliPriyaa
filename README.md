@@ -11,7 +11,7 @@ With a strong background in **DevOps, Infrastructure as Code (IaC), and Cloud En
 From automating Terraform deployments and enforcing Sentinel policies to building NIST-compliant OS images and enhancing observability using Dynatrace, Splunk, and Vault - I enjoy solving challenges that sit at the intersection of **development, operations, and security**.
 
 🔹 **Certifications:** AWS Cloud Practitioner | OCI Foundations  
-🔹 **Tech Stack:** Terraform | Ansible | Docker | Kubernetes | Jenkins | GitHub Actions | Harness
+🔹 **Tech Stack:** Terraform | Ansible | Docker | Kubernetes | Jenkins | GitHub Actions | Harness | Python | Golang | Shell Scripting | AWS | Azure | Dynatrace | Grafana | Splunk
 
 
 
