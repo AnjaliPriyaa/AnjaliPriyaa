@@ -19,10 +19,14 @@ I'm passionate about integrating **DevSecOps principles** to create secure, reli
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=00000000&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnjaliPriyaa&theme=dark&hide_border=true&background=00000000&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=00000000&title_color=36BCF7&text_color=ffffff&cache_seconds=1800" alt="Top Languages" width="48%"/>
+
+</div>
 
 ---
 
