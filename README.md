@@ -1,7 +1,7 @@
 # Hello! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines= DevSecOps+Engineer+%7C+Infrastructure+Engineer;Infrastructure+as+Code+Enthusiast;Automating+Cloud+%26+Mainframe+Solutions;Building+Scalable+Hybrid+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer+%7C+Infrastructure+Engineer;Infrastructure+as+Code+Enthusiast;Automating+Cloud+%26+Mainframe+Solutions;Building+Scalable+Hybrid+Cloud+Systems" alt="Typing SVG" />
 </p>
 
 I'm a **DevOps Engineer** at **[@IBM](https://www.ibm.com)** ISL, working with the Software Labs team on **z/OS and Cloud Modernization** stack capabilities. My role focuses on enabling hybrid cloud transformation through scalable, secure, and automated solutions.
@@ -34,9 +34,6 @@ From automating Terraform deployments and enforcing Sentinel policies to buildin
   </a>
   <a href="https://www.linkedin.com/in/anjalipriya24/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:anji707951@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
