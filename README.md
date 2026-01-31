@@ -1,12 +1,12 @@
 # Hello! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer+%7C+Infrastructure+Engineer;Infrastructure+as+Code+Enthusiast;Automating+Cloud+%26+Mainframe+Solutions;Building+Scalable+Hybrid+Cloud+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer+%7C+Infrastructure+Engineer;Infrastructure+as+Code+Enthusiast;Automating+Cloud+Solutions;Building+Scalable+Hybrid+Cloud+Systems" alt="Typing SVG" />
 </p>
 
-I'm a **DevOps Engineer** at **[@IBM](https://www.ibm.com)** ISL, working with the Software Labs team on **z/OS and Cloud Modernization** stack capabilities. My role focuses on enabling hybrid cloud transformation through scalable, secure, and automated solutions.
+I'm a **DevOps Engineer** working with Software Labs teams on **z/OS and Cloud Modernization** stack capabilities. My role focuses on enabling hybrid cloud transformation through scalable, secure, and automated solutions.
 
-With a strong background in **DevOps, Infrastructure as Code (IaC), and Cloud Engineering**, I've built and managed solutions using Terraform, Ansible, Kubernetes, AWS, Azure, Jenkins, GitHub Actions, and more. Skilled in **Golang** and with an understanding of **mainframe systems**, I'm passionate about creating developer-friendly, compliant, and efficient cloud-native environments.
+With a strong background in **DevOps, Infrastructure as Code (IaC), and Cloud Engineering**, I've built and managed solutions using Terraform, Ansible, Kubernetes, AWS, Azure, Jenkins, GitHub Actions, and more. Skilled in **Golang**, I'm passionate about creating developer-friendly, compliant, and efficient cloud-native environments.
 
 From automating Terraform deployments and enforcing Sentinel policies to building NIST-compliant OS images and enhancing observability using Dynatrace, Splunk, and Vault - I enjoy solving challenges that sit at the intersection of **development, operations, and security**.
 
@@ -20,8 +20,8 @@ From automating Terraform deployments and enforcing Sentinel policies to buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&theme=transparent&hide_border=true&langs_count=8&bg_color=00000000&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="180"/>
 </p>
 
 ---
