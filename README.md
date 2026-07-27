@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Anjali%20Priya&fontSize=60&fontAlignY=35&desc=DevSecOps%20Engineer%20|%20Infrastructure%20Automation%20|%20Cloud%20Architecture&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Anjali%20Priya&fontSize=60&fontAlignY=35&desc=DevSecOps%20Engineer%20|%20Infrastructure%20|%20Cloud-Native%20Platforms&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=terraform+plan+%E2%86%92+terraform+apply+%E2%86%92+%E2%98%B8%EF%B8%8F;python3+deploy.py+--env+prod+--safe;go+build+-o+resilient-infra+.%2F...;kubectl+get+pods+--all-namespaces+%7C+wc+-l;while+true%3B+do+automate%3B+done" alt="Typing SVG" />
@@ -13,8 +13,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## 🧠 About Me
@@ -24,70 +22,58 @@
 <td width="55%">
 
 ```yaml
-role:       DevSecOps & Infrastructure Engineer
-location:   Cloud-Native Ecosystem
-mission:    Design resilient, secure, automated infrastructure
+name:        Anjali Priya
+role:        DevSecOps & Infrastructure Engineer
+location:    Bangalore, India
+mission:     Design resilient, secure, and automated infrastructure
 
-domains:
-  ☁️ infrastructure:
-      Terraform (multi-cloud), Ansible, Packer
-      Pulumi, Crossplane, Helm, Kustomize
-  🐳 containers:
-      Docker, Kubernetes, OpenShift
-      Istio, Envoy, containerd
-  🚀 pipelines:
-      Jenkins, GitHub Actions, Harness
-      ArgoCD, Flux, progressive delivery
-  📊 observability:
-      Grafana LGTM, Dynatrace, Splunk
-      Prometheus, OpenTelemetry, PagerDuty
-  🔒 security:
-      Vault, OPA, Sentinel, Trivy
-      CIS/STIG hardening, cert-manager
-  🐍 languages:
-      Python: boto3, fastapi, flask, lambda
-      Go: controllers, CLI tools, high-perf agents
-      Bash: the glue that holds it all together
+experience:
+  - Cloud infrastructure design with focus on automation & scalability
+  - Building secure-by-default systems aligned with CIS & STIG benchmarks
+  - CI/CD pipeline engineering & GitOps workflow standardization
+  - Hybrid cloud & container orchestration at enterprise scale
+  - Full-stack observability — logs, metrics, traces, SLIs/SLOs
+  - Embedding security into every layer of the delivery pipeline
+
+open_source:
+  - Building tools that solve real infrastructure problems
+  - Active contributor to DevSecOps & platform engineering projects
+  - Open to collaborating on cloud-native tooling and automation
 ```
 
 </td>
 <td width="45%" align="center">
 
 <br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="55" title="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" title="Go"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="55" title="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" title="Terraform"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="55" title="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="50" title="Kubernetes"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"/>
 </p>
-
-<br/>
 
 ```mermaid
 graph TD
-    A["💻 Python / Go"] --> B["🐳 Build Image"]
-    B --> C["🔐 Security Scan"]
-    C --> D{"Pass?"}
-    D -->|"Yes"| E["🚀 Deploy to K8s"]
-    D -->|"No"| F["🔧 Fix & Rebuild"]
-    F --> A
-    E --> G["📊 Observe & Monitor"]
-    G --> H{"SLO Met?"}
-    H -->|"No"| I["⚠️ Auto-Remediate"]
-    I --> A
-    H -->|"Yes"| J["✅ Steady State"]
+    A["💻 Python / Go"] --> B["🐳 Build & Scan"]
+    B --> C{"Pass?"}
+    C -->|"Yes"| D["🚀 Deploy to K8s"]
+    C -->|"No"| E["🔧 Fix & Rebuild"]
+    E --> A
+    D --> F["📊 Observe"]
+    F --> G{"SLO Met?"}
+    G -->|"No"| H["⚠️ Auto-Remediate"]
+    H --> A
+    G -->|"Yes"| I["✅ Steady State"]
     style A fill:#3776AB,color:#fff,stroke:#1e40af
     style B fill:#2496ED,color:#fff,stroke:#1e3a5f
-    style C fill:#b91c1c,color:#fff,stroke:#7f1d1d
-    style E fill:#326CE5,color:#fff,stroke:#1e3a5f
-    style G fill:#c2410c,color:#fff,stroke:#7c2d12
-    style J fill:#15803d,color:#fff,stroke:#14532d
+    style D fill:#326CE5,color:#fff,stroke:#1e3a5f
+    style F fill:#c2410c,color:#fff,stroke:#7c2d12
+    style I fill:#15803d,color:#fff,stroke:#14532d
 ```
 
 </td>
@@ -107,16 +93,86 @@ graph TD
 
 ---
 
+## 📂 Open Source Projects
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🐳 [DockComply](https://github.com/AnjaliPriyaa/DockComply)
+*Self-hosted compliance-as-a-service for Docker images*
+
+```
+┌─────────────────────────────────────┐
+│  FastAPI ──► Redis Queue ──► Go     │
+│  (API)        (Jobs)         (Scan) │
+│                                     │
+│  Docker-in-Docker ▪ K8s (GKE)      │
+│  Async processing ▪ Live status    │
+└─────────────────────────────────────┘
+```
+
+`Python` `Go` `FastAPI` `Redis` `Docker` `Kubernetes` `GKE`
+
+Automated security & compliance checks for container images — catches misconfigurations before they reach production.
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 [Job-Tracker-App](https://github.com/AnjaliPriyaa/Job-Tracker-App)
+*AI-powered job monitor with Telegram alerts*
+
+```
+┌─────────────────────────────────────┐
+│  LinkedIn ──► AI Match ──► Alerts   │
+│  (Scrape)     (Gemini)    (Telegram)│
+│                                     │
+│  LangChain ▪ Cron every 20 min     │
+│  Dedup engine ▪ GitHub Actions      │
+└─────────────────────────────────────┘
+```
+
+`Python` `LangChain` `Gemini` `Telegram API` `GitHub Actions`
+
+Monitors job portals for DevOps/Infrastructure roles in Bengaluru, matches via LLM, and notifies instantly.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 [AI-Chat-Studio](https://github.com/AnjaliPriyaa/AI-Chat-Studio)
+*LLM applications from first principles*
+
+`Python` `OpenRouter` `OpenAI SDK` `Prompt Engineering` `RAG` `Multi-Agent`
+
+A hands-on journey building LLM apps from scratch — chat, tool calling, embeddings, vector DBs, and agents — with the goal of reaching production-ready AI systems.
+
+</td>
+<td align="center" width="50%">
+
+### 🔬 [Cell_Game](https://github.com/AnjaliPriyaa/Cell_Game)
+*Conway's Game of Life in React*
+
+`React` `JavaScript` `Docker` `GitHub Actions`
+
+Interactive cellular automaton simulation with Docker containerization and CI/CD pipeline.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Arsenal
 
-### ⚙️ Infrastructure as Code & Provisioning
+### ⚙️ Infrastructure as Code & Config Management
 <p>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crossplane-0F172A?style=for-the-badge&logo=crossplane&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 🐳 Containers, Orchestration & Service Mesh
@@ -125,30 +181,27 @@ graph TD
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
   <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white" />
   <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" />
 </p>
 
-### 🚀 CI/CD, GitOps & Progressive Delivery
+### 🚀 CI/CD, GitOps & Automation
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Harness-00B4D8?style=for-the-badge&logo=harness&logoColor=white" />
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white" />
 </p>
 
-### 🔐 Security, Secrets & Compliance
+### 🔐 Security, Compliance & Secrets
 <p>
   <img src="https://img.shields.io/badge/Vault-FFD814?style=for-the-badge&logo=vault&logoColor=black" />
   <img src="https://img.shields.io/badge/OPA-4B8BBE?style=for-the-badge&logo=openpolicyagent&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentinel-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/cert--manager-2496ED?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
   <img src="https://img.shields.io/badge/Falco-00A7D0?style=for-the-badge&logo=falco&logoColor=white" />
+  <img src="https://img.shields.io/badge/cert--manager-2496ED?style=for-the-badge&logo=letsencrypt&logoColor=white" />
 </p>
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & Platforms
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -157,7 +210,7 @@ graph TD
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-### 📊 Observability & Monitoring
+### 📊 Observability & Incident Response
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
@@ -167,31 +220,30 @@ graph TD
   <img src="https://img.shields.io/badge/OpenTelemetry-5C4EE5?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 </p>
 
-### 🐍 Python & 🔵 Go — What I Build
+### 🐍 Python & 🔵 Go
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🐍 Python
-| Use Case | Libraries & Tools |
-|----------|------------------|
-| AWS Automation | `boto3`, `aws-lambda`, `aws-cdk` |
-| Infra APIs & Webhooks | `fastapi`, `flask`, `pydantic` |
+#### 🐍 Python — Infrastructure Automation
+| Area | Stack |
+|------|-------|
+| Cloud SDKs | `boto3`, `aws-cdk`, `azure-sdk` |
+| Web & APIs | `fastapi`, `flask`, `pydantic` |
+| AI / LLMs | `langchain`, `openai`, `google-generativeai` |
 | CLI Tools | `click`, `typer`, `rich` |
 | IaC Testing | `pytest`, `moto`, `testinfra` |
-| K8s Automation | `kubernetes-client`, `kopf` |
 
 </td>
 <td width="50%">
 
-#### 🔵 Go
-| Use Case | Libraries & Tools |
-|----------|------------------|
+#### 🔵 Go — High-Performance Tooling
+| Area | Stack |
+|------|-------|
 | K8s Controllers | `controller-runtime`, `client-go` |
-| High-Perf Agents | `goroutine` pools, `net/http` |
-| DevOps CLI | `cobra`, `viper`, `go-flags` |
-| Terraform Providers | `terraform-plugin-sdk` |
+| CLI & DevOps | `cobra`, `viper`, `go-flags` |
+| APIs & Services | `gin`, `net/http`, `goroutines` |
 | Observability | `opentelemetry-go`, `promhttp` |
 
 </td>
@@ -226,47 +278,26 @@ graph TD
  └──────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-<div align="center">
-
-| 🔄 Pattern | 🏷️ What It Solves | 🛠️ Tools |
-|-----------|-------------------|---------|
+| 🔄 Pattern | 🎯 Goal | 🛠️ Tools |
+|-----------|---------|---------|
 | **GitOps** | Single source of truth, auditable rollbacks | ArgoCD, Flux |
-| **Immutable Infra** | Zero config drift, reliable rollbacks | Packer, Terraform |
-| **Policy-as-Code** | Automated compliance, governance guardrails | OPA, Sentinel, Kyverno |
-| **Zero-Trust** | mTLS everywhere, no implicit trust | Istio, Envoy, cert-manager |
+| **Immutable Infrastructure** | Zero config drift, reliable rollbacks | Packer, Terraform |
+| **Policy-as-Code** | Automated compliance, governance guardrails | OPA, Sentinel |
+| **Zero-Trust Networking** | mTLS everywhere, no implicit trust | Istio, cert-manager |
 | **Progressive Delivery** | Canary, blue-green, reduce blast radius | Argo Rollouts, Flagger |
-| **Secretless Workloads** | No static credentials in apps | Vault Agent, IRSA, Workload Identity |
+| **Secretless Workloads** | No static credentials in apps | Vault Agent, IRSA |
 
 </div>
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📝 Description | 🛠️ Stack |
-|-----------|---------------|---------|
-| **Terraform Landing Zone** | Multi-account AWS with security guardrails | `Terraform` `OPA` `AWS Organizations` |
-| **Golden AMI Pipeline** | CIS-hardened images via Packer + Ansible | `Packer` `Ansible` `GitHub Actions` |
-| **K8s Platform Toolkit** | Batteries-included cluster bootstrap | `Helm` `ArgoCD` `Istio` `Vault` |
-| **Observability Stack** | Pre-configured LGTM + Dynatrace dashboards | `Grafana` `Loki` `Tempo` `Prometheus` |
-| **Python Infra SDK** | Reusable `boto3` wrappers & CLI toolkit | `Python` `Click` `boto3` `pytest` |
-| **Go K8s Controller** | Custom operator for internal platform | `Go` `controller-runtime` `client-go` |
-
-</div>
-
----
-
-## 📝 From My Keyboard
+## ✍️ From My Keyboard
 
 <p>
   <a href="https://medium.com/@anjalipriya_">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  &nbsp; — DevSecOps patterns, IaC deep-dives, and infrastructure automation stories
+  &nbsp; — DevSecOps patterns, IaC deep-dives, and infrastructure stories
 </p>
 
 > *"Infrastructure is code. Security is a feature, not a checklist. Observability is not optional."*
@@ -288,8 +319,7 @@ graph TD
   </a>
 
   <br/><br/>
-
-  <i>Open to collaborating on infrastructure automation, platform engineering, and DevSecOps tooling.</i>
+  <i>Open to collaborating on infrastructure automation, open source tooling, and cloud-native projects.</i>
 
 </div>
 
