@@ -24,16 +24,18 @@
 ```yaml
 name:        Anjali Priya
 role:        DevSecOps & Infrastructure Engineer
-location:    Bangalore, India
+location:    Bengaluru, India
 mission:     Design resilient, secure, and automated infrastructure
 
 experience:
-  - Cloud infrastructure design with focus on automation & scalability
-  - Building secure-by-default systems aligned with CIS & STIG benchmarks
-  - CI/CD pipeline engineering & GitOps workflow standardization
-  - Hybrid cloud & container orchestration at enterprise scale
-  - Full-stack observability — logs, metrics, traces, SLIs/SLOs
-  - Embedding security into every layer of the delivery pipeline
+  - Infrastructure automation on OpenShift with Terraform & Golang
+  - CI/CD pipeline optimization across Tekton, Jenkins & Harness
+  - Building CIS & NIST-compliant VM & container images (Image Bakery)
+  - Policy enforcement with Sentinel for governance & risk management
+  - SDDC-to-AWS migration, Terraform Enterprise on AKS
+  - SCA & vulnerability scanning — Trivy, Blackduck, Aquasec, Veracode
+  - Observability with Dynatrace + Splunk for centralized log analysis
+  - Terraform Plugin Framework & core IaC component contributions
 
 open_source:
   - Building tools that solve real infrastructure problems
@@ -49,6 +51,8 @@ open_source:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" title="Go"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" title="Terraform"/>
   &nbsp;
@@ -82,6 +86,66 @@ graph TD
 
 ---
 
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏦 State Street &nbsp; `Jun 2022 – Jul 2025`
+*Senior Associate — Platform Engineering*
+
+```
+┌──────────────────────────────────────────┐
+│  React (Control Plane)                   │
+│        ↕                                │
+│  Node.js (Managed Infrastructure)       │
+│        ↕                                │
+│  Terraform ▪ Ansible ▪ AWS ▪ Azure      │
+│        ↕                                │
+│  CIS/NIST-Compliant VM & Container Images│
+└──────────────────────────────────────────┘
+```
+
+`React` `Node.js` `Terraform` `Ansible` `AWS` `Azure` `Sentinel`
+
+Built a **managed infrastructure platform** that standardized provisioning across the enterprise — React-powered control plane with a Node.js backend orchestrating infrastructure. Developed CIS & NIST-compliant golden images, enforced governance via Sentinel policies, and migrated SDDC workloads to AWS.
+
+</td>
+<td align="center" width="50%">
+
+### 🔵 IBM &nbsp; `Jul 2025 – Present`
+*Software Engineer — Z/OS Platform*
+
+```
+┌──────────────────────────────────────────┐
+│  Terraform Plugin Framework              │
+│        ↕                                │
+│  OpenShift ▪ Tekton ▪ Kubernetes        │
+│        ↕                                │
+│  Golang ▪ SCA ▪ Container Scanning      │
+└──────────────────────────────────────────┘
+```
+
+`Golang` `Terraform` `OpenShift` `Tekton` `Kubernetes` `Docker`
+
+Contributing to the **Terraform Plugin Framework** and core IaC components. Streamlining infrastructure provisioning on Red Hat OpenShift with Golang-based automation, optimizing CI/CD pipelines across Tekton and Kubernetes, and embedding DevSecOps practices into the module development lifecycle.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-OCI_Foundation_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -93,7 +157,7 @@ graph TD
 
 ---
 
-## 📂 Open Source Projects
+## 📂 Projects
 
 <table>
 <tr>
@@ -166,67 +230,13 @@ Interactive cellular automaton simulation with Docker containerization and CI/CD
 
 ## 🛠️ Tech Arsenal
 
-### ⚙️ Infrastructure as Code & Config Management
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
-### 🐳 Containers, Orchestration & Service Mesh
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" />
-  <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" />
-</p>
-
-### 🚀 CI/CD, GitOps & Automation
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Harness-00B4D8?style=for-the-badge&logo=harness&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-</p>
-
-### 🔐 Security, Compliance & Secrets
-<p>
-  <img src="https://img.shields.io/badge/Vault-FFD814?style=for-the-badge&logo=vault&logoColor=black" />
-  <img src="https://img.shields.io/badge/OPA-4B8BBE?style=for-the-badge&logo=openpolicyagent&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Falco-00A7D0?style=for-the-badge&logo=falco&logoColor=white" />
-  <img src="https://img.shields.io/badge/cert--manager-2496ED?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-</p>
-
-### ☁️ Cloud & Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-### 📊 Observability & Incident Response
-<p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-5C4EE5?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-</p>
-
-### 🐍 Python & 🔵 Go
+### 🐍 Python &nbsp; 🔵 Go &nbsp; 🟨 JavaScript
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-#### 🐍 Python — Infrastructure Automation
+#### 🐍 Python
 | Area | Stack |
 |------|-------|
 | Cloud SDKs | `boto3`, `aws-cdk`, `azure-sdk` |
@@ -236,15 +246,24 @@ Interactive cellular automaton simulation with Docker containerization and CI/CD
 | IaC Testing | `pytest`, `moto`, `testinfra` |
 
 </td>
-<td width="50%">
+<td width="33%">
 
-#### 🔵 Go — High-Performance Tooling
+#### 🔵 Go
 | Area | Stack |
 |------|-------|
-| K8s Controllers | `controller-runtime`, `client-go` |
+| IaC & Plugins | `terraform-plugin-sdk`, `terraform-plugin-framework` |
+| K8s & Controllers | `controller-runtime`, `client-go` |
 | CLI & DevOps | `cobra`, `viper`, `go-flags` |
-| APIs & Services | `gin`, `net/http`, `goroutines` |
-| Observability | `opentelemetry-go`, `promhttp` |
+| APIs & Services | `net/http`, `goroutines`, `gin` |
+
+</td>
+<td width="33%">
+
+#### 🟨 JavaScript
+| Area | Stack |
+|------|-------|
+| Frontend | `react`, `node.js` |
+| Build & CI | `docker`, `github-actions` |
 
 </td>
 </tr>
@@ -252,42 +271,55 @@ Interactive cellular automaton simulation with Docker containerization and CI/CD
 
 ---
 
-## 🏗️ Infrastructure Patterns
+### ⚙️ Infrastructure as Code & Config Management
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentinel-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
 
-<div align="center">
+### 🐳 Containers, Orchestration & Pipelines
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
 
-```
- ┌──────────────────────────────────────────────────────────────┐
- │            🏛️  MULTI-CLOUD LANDING ZONE                      │
- │                                                              │
- │   ┌───────────┐    ┌───────────┐    ┌───────────┐           │
- │   │  AWS VPC  │    │ Azure VNet│    │ On-Prem DC│           │
- │   │  ┌─────┐  │    │  ┌─────┐  │    │  ┌─────┐  │           │
- │   │  │ EKS │  │    │  │ AKS │  │    │  │ OCP │  │           │
- │   │  └─────┘  │    │  └─────┘  │    │  └─────┘  │           │
- │   └─────┬─────┘    └─────┬─────┘    └─────┬─────┘           │
- │         └────────────────┼───────────────┘                  │
- │                   ┌───────┴───────┐                         │
- │                   │  Transit GW   │                         │
- │                   └───────┬───────┘                         │
- │         ┌─────────────────┼─────────────────┐               │
- │   ┌─────┴─────┐    ┌──────┴──────┐    ┌─────┴─────┐        │
- │   │  GitOps   │    │  CI/CD Hub  │    │  Secrets  │        │
- │   │ (ArgoCD)  │    │  (Harness)  │    │  (Vault)  │        │
- │   └───────────┘    └─────────────┘    └───────────┘        │
- └──────────────────────────────────────────────────────────────┘
-```
+### 🚀 CI/CD & GitOps
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harness-00B4D8?style=for-the-badge&logo=harness&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
 
-| 🔄 Pattern | 🎯 Goal | 🛠️ Tools |
-|-----------|---------|---------|
-| **GitOps** | Single source of truth, auditable rollbacks | ArgoCD, Flux |
-| **Immutable Infrastructure** | Zero config drift, reliable rollbacks | Packer, Terraform |
-| **Policy-as-Code** | Automated compliance, governance guardrails | OPA, Sentinel |
-| **Zero-Trust Networking** | mTLS everywhere, no implicit trust | Istio, cert-manager |
-| **Progressive Delivery** | Canary, blue-green, reduce blast radius | Argo Rollouts, Flagger |
-| **Secretless Workloads** | No static credentials in apps | Vault Agent, IRSA |
+### 🔐 Security, Compliance & Scanning
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/BlackDuck-000000?style=for-the-badge&logo=synopsys&logoColor=white" />
+  <img src="https://img.shields.io/badge/AquaSec-00A7D0?style=for-the-badge&logo=aqua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Veracode-FF4088?style=for-the-badge&logo=veracode&logoColor=white" />
+  <img src="https://img.shields.io/badge/JFrog_Xray-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" />
+</p>
 
-</div>
+### ☁️ Cloud & Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 📊 Observability & Monitoring
+<p>
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
+</p>
 
 ---
 
