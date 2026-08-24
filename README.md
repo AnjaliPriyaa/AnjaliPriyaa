@@ -1,280 +1,345 @@
 <div align="center">
 
-# Hi, I'm Anjali Priya
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anjali%20Priya&fontSize=55&fontAlignY=35&desc=Platform%20Engineering%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### Platform Engineer · Infrastructure Automation · Cloud Native · AI Infrastructure
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+infrastructure+that+scales.;Automating+the+boring+parts.;Making+platforms+reliable+by+design.;Securing+infrastructure+before+production.;Exploring+where+AI+meets+infrastructure." />
 
-I build infrastructure platforms, automation, and developer tooling — from Terraform providers and Kubernetes platforms to LLM-powered infrastructure assistants.
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/anjalipriya24/) · [Portfolio](https://anjalipriyaa.github.io) · [Medium](https://medium.com/@anjalipriya_) · [GitHub](https://github.com/AnjaliPriyaa)
+![Profile Views](https://komarev.com/ghpvc/?username=AnjaliPriyaa\&style=for-the-badge\&color=0891b2)
+![Followers](https://img.shields.io/github/followers/AnjaliPriyaa?style=for-the-badge\&color=0891b2\&label=Followers)
 
 </div>
 
 ---
 
-## About Me
+## `whoami`
 
-I'm a **Software Engineer working across platform engineering, infrastructure automation, and cloud-native systems**.
+```yaml
+name: Anjali Priya
 
-My work has evolved from building and securing enterprise cloud infrastructure to developing infrastructure tooling and AI-assisted platform capabilities.
+focus:
+  - Platform Engineering
+  - Infrastructure Automation
+  - Cloud Native Systems
+  - Reliability Engineering
+  - DevSecOps
+  - AI Infrastructure
 
-Currently at **IBM**, I work on the **IBM Z / z/OS platform**, where my focus includes:
+languages:
+  - Go
+  - Python
+  - Bash
+  - JavaScript
 
-* Building **zPilot**, an LLM-powered agentic assistant for interacting with z/OS using natural language
-* Developing infrastructure automation with **Terraform and Go**
-* Working with **Terraform Plugin Framework** and Infrastructure-as-Code components
-* Building and improving platforms running on **OpenShift and Kubernetes**
-* Improving CI/CD workflows with **Tekton**
-* Implementing deployment validation, health monitoring, and runtime verification
-* Integrating **SCA, container security, and automated security validation** into infrastructure pipelines
+currently_exploring:
+  - Distributed Systems
+  - Agentic Workflows
+  - AI Infrastructure
+  - LLM-powered Automation
 
-Before IBM, I worked in **Platform Engineering at State Street**, building enterprise infrastructure automation across AWS and Azure.
-
----
-
-## What I'm Interested In
-
-```text
-Infrastructure Engineering
-        │
-        ├── Terraform / Infrastructure as Code
-        ├── Kubernetes & OpenShift
-        ├── Platform Engineering
-        ├── Distributed Systems
-        ├── Reliability & Observability
-        ├── DevSecOps
-        │
-        └── AI Infrastructure
-                │
-                ├── LLM Applications
-                ├── Agentic Workflows
-                └── AI-assisted Infrastructure Automation
+philosophy:
+  automate: "anything I have to do twice"
+  infrastructure: "should be reproducible"
+  security: "belongs in the pipeline"
+  reliability: "should be designed, not patched"
 ```
 
-I'm particularly interested in the intersection of **AI and infrastructure** — how intelligent systems can operate, troubleshoot, automate, and reason about complex infrastructure environments.
-
 ---
 
-## Experience
+## ⚡ What I Build
 
-### IBM — Software Engineer, Z / OS Platform
-
-**July 2025 – Present**
-
-Working on infrastructure and platform engineering for IBM Z environments.
-
-**AI Platform Engineering**
-
-Building **zPilot**, an LLM-powered agentic assistant that allows engineers to interact with IBM z/OS using natural language.
-
-The system translates user intent into infrastructure operations, executes platform commands, interprets console output, and captures operational knowledge to make complex mainframe environments easier to operate.
-
-**Infrastructure & Platform Engineering**
-
-* Infrastructure provisioning and automation using **Terraform + Go**
-* Terraform Plugin Framework and IaC component development
-* OpenShift and Kubernetes platform engineering
-* Deployment health monitoring and runtime validation
-* Tekton-based CI/CD automation
-* Container platform hardening and security
-* SCA and container-image security integration
-
----
-
-### State Street — Senior Associate, Platform Engineering
-
-**June 2022 – July 2025**
-
-Worked on enterprise infrastructure automation, cloud platforms, security engineering, and developer enablement.
-
-* Provisioned AWS infrastructure using **Terraform**
-* Automated Terraform Enterprise deployments with **Ansible**
-* Built **CIS/NIST-compliant Linux VM and container images**
-* Developed **Sentinel Policy-as-Code**
-* Integrated Trivy, BlackDuck, Aqua Security, and Veracode into CI/CD
-* Built pipelines using Jenkins, GitHub Actions, and Harness
-* Managed workloads across **AWS, Azure, and EKS**
-* Automated Terraform Enterprise onboarding using Ansible Tower and ServiceNow
-* Implemented monitoring with **Dynatrace** and centralized logging with **Splunk**
-
----
-
-## Selected Projects
-
-### zPilot
-
-**LLM-powered infrastructure assistant for IBM z/OS**
+I like working on the layer **between applications and infrastructure** — the systems that make software easier to deploy, operate, secure, and scale.
 
 ```text
-Natural Language
-       │
-       ▼
-  LLM / Agent
-       │
-       ▼
-Infrastructure Skills
-       │
-       ▼
-z/OS Command Execution
-       │
-       ▼
-Console / System Output
-       │
-       ▼
-Interpretation & Response
+                        ┌──────────────────────┐
+                        │     Developers       │
+                        └──────────┬───────────┘
+                                   │
+                                   ▼
+                        ┌──────────────────────┐
+                        │  Platform / Tooling  │
+                        └──────────┬───────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+              ▼                    ▼                    ▼
+       ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+       │     IaC     │      │   CI / CD   │      │  Security   │
+       │  Terraform  │      │  Automation │      │  Controls   │
+       └──────┬──────┘      └──────┬──────┘      └──────┬──────┘
+              │                    │                    │
+              └────────────────────┼────────────────────┘
+                                   │
+                                   ▼
+                     ┌────────────────────────┐
+                     │ Kubernetes / OpenShift │
+                     └────────────┬───────────┘
+                                  │
+                   ┌──────────────┼──────────────┐
+                   ▼              ▼              ▼
+                Cloud        Observability   Reliability
 ```
-
-Designed to reduce the operational knowledge required to work with complex mainframe environments by translating natural-language requests into infrastructure operations.
-
-**Focus:** Agentic AI · Infrastructure Automation · z/OS · LLMs · Platform Engineering
 
 ---
 
-### [DockComply](https://github.com/AnjaliPriyaa/DockComply)
+## `$ capabilities --list`
 
-**Self-hosted container compliance platform**
+### 🏗️ Infrastructure Engineering
+
+I can design and automate infrastructure using **Infrastructure as Code**, building reusable components instead of relying on manual provisioning.
 
 ```text
-             ┌─────────────┐
-Image ──────►│   FastAPI   │
-             └──────┬──────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │ Redis Queue │
-             └──────┬──────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │ Go Scanner  │
-             └──────┬──────┘
-                    │
-                    ▼
-          Security / Compliance
-                 Results
+Requirements
+     ↓
+Terraform / IaC
+     ↓
+Reusable Modules
+     ↓
+Policy & Validation
+     ↓
+Cloud / Platform
+     ↓
+Repeatable Infrastructure
 ```
 
-Automates security and compliance checks for container images before they reach production.
-
-`Python` `Go` `FastAPI` `Redis` `Docker` `Kubernetes` `GKE`
+`Terraform` `Ansible` `Packer` `Sentinel` `AWS` `Azure` `OCI`
 
 ---
 
-### [Job Tracker](https://github.com/AnjaliPriyaa/Job-Tracker-App)
+### ☸️ Platform Engineering
 
-**AI-powered job monitoring and matching system**
+I work with container platforms and the automation surrounding them — deployment, validation, security, health checks, and operational workflows.
 
 ```text
-Job Sources
-     │
-     ▼
- Collection
-     │
-     ▼
- LLM Matching
-     │
-     ├── Deduplication
-     ├── Relevance Scoring
-     └── Filtering
-            │
-            ▼
-      Telegram Alerts
+Code
+ │
+ ▼
+Build ──► Scan ──► Validate ──► Deploy
+                                  │
+                                  ▼
+                         Kubernetes / OpenShift
+                                  │
+                           ┌──────┴──────┐
+                           ▼             ▼
+                       Observe        Verify
+                           │             │
+                           └──────┬──────┘
+                                  ▼
+                              Improve
 ```
 
-Automates job discovery, evaluates opportunities using an LLM, removes duplicates, and sends relevant opportunities through Telegram.
-
-`Python` `LangChain` `Gemini` `GitHub Actions` `Telegram API`
+`Kubernetes` `OpenShift` `Docker` `EKS` `Tekton`
 
 ---
 
-### [AI Chat Studio](https://github.com/AnjaliPriyaa/AI-Chat-Studio)
+### ⚙️ Automation & Tooling
 
-A hands-on project for understanding how modern LLM applications work from first principles.
+If an infrastructure workflow is repetitive, I probably want to automate it.
 
-Exploring:
+I build tooling around:
 
-* LLM APIs
-* Tool calling
-* Prompt engineering
-* Embeddings
-* Vector databases
-* RAG
-* Multi-agent workflows
-* Production LLM architecture
+* Infrastructure provisioning
+* Deployment workflows
+* REST APIs
+* Platform validation
+* Health checks
+* Runtime verification
+* Configuration management
+* CI/CD automation
+* Infrastructure lifecycle operations
 
-`Python` `OpenAI SDK` `OpenRouter` `RAG` `Agents`
+```python
+while manual_work:
+    understand()
+    automate()
+    validate()
+    observe()
+```
 
----
-
-## Core Stack
-
-### Infrastructure
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square\&logo=redhatopenshift\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square\&logo=ansible\&logoColor=white)
-
-### Languages
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### Cloud & Platform
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square\&logo=oracle\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-
-### CI/CD & Reliability
-
-![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square\&logo=dynatrace\&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square\&logo=splunk\&logoColor=white)
-
-### Security
-
-`SCA` · `Container Security` · `Trivy` · `BlackDuck` · `Aqua Security` · `Veracode` · `JFrog Xray` · `Sentinel`
+`Go` `Python` `Bash` `REST APIs`
 
 ---
 
-## Currently Exploring
+### 🔐 DevSecOps
+
+Security works better when it becomes part of the engineering workflow instead of a final gate.
 
 ```text
-AI Infrastructure
-├── Distributed systems
-├── GPU infrastructure
-├── AI workload orchestration
-├── Kubernetes for AI workloads
-├── Agentic systems
-├── LLM observability
-└── Infrastructure automation with AI
+                  Software / Infrastructure
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+        SCA           Image Scan       Policy Check
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                       Validation
+                           │
+                      PASS │ FAIL
+                        ┌──┴──┐
+                        ▼     ▼
+                     Deploy  Fix
 ```
 
-I'm interested in understanding not just how to **build AI applications**, but how to **run them reliably at infrastructure scale**.
+Experience across:
+
+`Trivy` `BlackDuck` `Aqua Security` `Veracode` `JFrog Xray`
+
+`SCA` `Container Security` `CIS` `NIST` `Policy as Code`
 
 ---
 
-## GitHub
+### 📊 Reliability & Observability
+
+Deploying something is only half the job.
+
+I work on making infrastructure **observable, verifiable, and easier to operate** through:
+
+```text
+Metrics ──────┐
+Logs ─────────┼──► Observe ──► Detect ──► Diagnose ──► Recover
+Health Checks ┤
+Validation ───┘
+```
+
+`Dynatrace` `Splunk` `Monitoring` `Logging` `Health Checks`
+
+---
+
+## 🤖 Where I'm Heading
+
+The part I'm increasingly interested in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&hide_border=true" height="165" />
+### AI × Infrastructure
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&hide_border=true&langs_count=6" height="165" />
+</div>
+
+Not just:
+
+```text
+prompt → LLM → response
+```
+
+but:
+
+```text
+                       Natural Language
+                              │
+                              ▼
+                      ┌───────────────┐
+                      │  AI / Agent   │
+                      └───────┬───────┘
+                              │
+                     Reason + Decide
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+           APIs            Tools         Infrastructure
+              │               │               │
+              └───────────────┼───────────────┘
+                              ▼
+                         Take Action
+                              │
+                              ▼
+                          Observe
+                              │
+                              ▼
+                         Reason Again
+```
+
+I'm exploring how **LLMs and agents can interact with real infrastructure systems** — executing operations, interpreting system state, automating troubleshooting, and helping engineers operate increasingly complex platforms.
+
+At the same time, I'm interested in the infrastructure underneath AI itself:
+
+`Distributed Systems` · `AI Workloads` · `GPU Infrastructure` · `Kubernetes` · `Agents` · `LLM Observability`
+
+---
+
+## 🧰 Toolbox
+
+### `languages`
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### `infrastructure`
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge\&logo=redhatopenshift\&logoColor=white)
+
+### `cloud`
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+
+### `delivery`
+
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+
+---
+
+## 🧠 How I Think About Infrastructure
+
+```text
+                Build
+                  │
+                  ▼
+             ┌─────────┐
+       ┌────►│Automate │────┐
+       │     └─────────┘    │
+       │                    ▼
+   Improve              Validate
+       ▲                    │
+       │                    ▼
+    Observe ◄──────────── Deploy
+```
+
+> **Build it. Automate it. Secure it. Observe it. Improve it.**
+
+---
+
+## 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliPriyaa&theme=transparent&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## Connect
+## `ping anjali`
 
-I'm always interested in conversations around **platform engineering, infrastructure automation, cloud-native systems, Terraform, and AI infrastructure**.
+Interested in **platform engineering, infrastructure automation, distributed systems, cloud-native engineering, DevSecOps, or AI infrastructure?**
 
-[LinkedIn](https://www.linkedin.com/in/anjalipriya24/) · [GitHub](https://github.com/AnjaliPriyaa) · [Medium](https://medium.com/@anjalipriya_) · [Portfolio](https://anjalipriyaa.github.io)
+I'm always happy to connect with people building interesting systems.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjali_Priya-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anjalipriya24/)
+[![GitHub](https://img.shields.io/badge/GitHub-AnjaliPriyaa-181717?style=for-the-badge\&logo=github)](https://github.com/AnjaliPriyaa)
+[![Medium](https://img.shields.io/badge/Medium-Read_My_Writing-000000?style=for-the-badge\&logo=medium)](https://medium.com/@anjalipriya_)
+
+<br/>
+
+```text
+$ whoami
+> engineer who likes turning complex infrastructure into boring automation.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
