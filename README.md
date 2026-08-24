@@ -193,13 +193,9 @@ Give me something to automate, debug, design, or figure out and I'll probably di
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&hide_border=true&rank_icon=github" />
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliPriyaa&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&hide_border=true)
 
 </div>
 
