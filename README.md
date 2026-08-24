@@ -54,158 +54,212 @@ anjali = {
 }
 ```
 
-I'm a software engineer who enjoys working close to **infrastructure and systems**.
+I'm a **software engineer who loves engineering problems**, especially the ones sitting somewhere between code, infrastructure and systems.
 
-I like problems where software meets the real world — provisioning infrastructure, automating repetitive work, building developer tooling, debugging systems, improving reliability, and figuring out why something broke in the first place.
+I enjoy automating repetitive work, building infrastructure, working with platforms, debugging weird problems and understanding why something behaves the way it does.
 
-Lately, I've also been exploring the intersection of **infrastructure, distributed systems and AI**.
+Lately, I've also been exploring the intersection of **distributed systems, infrastructure and AI**.
 
 ---
 
-## ⚙️ Things I Like Building
+## ⚙️ What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software & Scripting
+
+`Python` `Go` `Bash` `JavaScript`
+
+Writing automation, tooling, APIs and software that interacts with infrastructure.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Infrastructure as Code
+
+`Terraform` `Ansible` `Packer`
+
+Provisioning infrastructure, automating environments and treating infrastructure like software.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Platforms
+
+`AWS` `Azure` `OCI`
+
+Working with cloud infrastructure, compute, containers and platform services.
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Containers
+
+`Docker` `Kubernetes` `OpenShift`
+
+Building and operating containerized workloads and cloud-native platforms.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 CI/CD
+
+`GitHub Actions` `Jenkins` `Tekton` `Harness`
+
+Automating build, validation, security and deployment workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 DevSecOps
+
+`Trivy` `BlackDuck` `Aqua` `Veracode`
+
+Integrating security and vulnerability checks into engineering workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Observability
+
+`Dynatrace` `Splunk` `Logging` `Monitoring`
+
+Understanding what's happening inside systems when things don't behave as expected.
+
+</td>
+<td width="50%" valign="top">
+
+### 🐧 Systems
+
+`Linux` `REST APIs` `Kafka` `Git`
+
+The pieces underneath applications that make everything actually work.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 Where I Like Working
 
 ```text
-                    ┌─────────────────────┐
-                    │      SOFTWARE       │
-                    │   Python • Go • JS  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     AUTOMATION      │
-                    │ Terraform • Ansible │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-              ┌────────────────────────────────┐
-              │          INFRASTRUCTURE        │
-              │  Cloud • Containers • Linux   │
-              └───────────────┬────────────────┘
-                              │
-                              ▼
-                    ┌─────────────────────┐
-                    │      PLATFORMS      │
-                    │ Kubernetes • CI/CD  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     RELIABILITY     │
-                    │ Observe • Debug •   │
-                    │ Improve • Repeat    │
-                    └─────────────────────┘
+                    SOFTWARE
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   AUTOMATION    │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ INFRASTRUCTURE  │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │    PLATFORMS    │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │   RELIABILITY   │
+              └─────────────────┘
 ```
 
+I particularly enjoy engineering where **software meets infrastructure** — building tools and automation that make systems easier to operate, understand and scale.
+
 ---
 
-## 🧰 Engineering Toolbox
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,bash,javascript" />
-</p>
-
-### Infrastructure & Cloud Native
-
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,linux" />
-</p>
-
-`OpenShift` • `Packer` • `Infrastructure as Code` • `Platform Engineering`
-
-### Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-`AWS` • `Azure` • `OCI`
-
-### CI/CD & Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github" />
-</p>
-
-`Tekton` • `GitHub Actions` • `Jenkins` • `Harness`
-
-### Systems I Enjoy Working Around
+## 🔭 Currently Curious About
 
 ```text
-Infrastructure as Code     ███████████████████
-Automation                 ███████████████████
-Cloud Native               ██████████████████
-Platform Engineering       ██████████████████
-Linux & Systems            █████████████████
-CI/CD                      █████████████████
-Observability              ████████████████
-DevSecOps                  ████████████████
-Distributed Systems        ██████████████░░
-AI Infrastructure          █████████████░░░
+Distributed Systems      → How systems coordinate at scale
+Infrastructure at Scale  → How platforms grow without becoming chaos
+AI Infrastructure        → What it takes to run AI systems reliably
+Agentic Systems          → Software that can reason and take actions
+Automation               → Removing repetitive engineering work
+Systems Engineering      → Understanding what happens underneath
+Reliability              → Designing systems that don't fall over
+Developer Tooling        → Making engineers' lives easier
 ```
 
----
-
-## 🔭 Currently Exploring
-
-I'm particularly interested in engineering problems around:
-
-* Distributed systems and infrastructure at scale
-* Platform and infrastructure engineering
-* AI infrastructure
-* Agentic systems and LLM-powered tooling
-* Developer productivity and internal tooling
-* Infrastructure automation
-* Reliability and observability
-* Cloud-native architecture
-* Systems programming
-* Understanding what actually happens **under the hood**
-
----
-
-## 🧠 How I Think About Engineering
+And occasionally...
 
 ```text
-Understand
-    ↓
-Build
-    ↓
-Break
-    ↓
-Debug
-    ↓
-Automate
-    ↓
-Make it reliable
-    ↓
-Learn something new
-    ↺
+"Okay, but what is ACTUALLY happening under the hood?"
+```
+
+...which usually leads to another rabbit hole.
+
+---
+
+## 🧠 My Engineering Loop
+
+```text
+              ┌──────────────┐
+              │  Understand  │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    Build     │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    Break     │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    Debug     │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │   Automate   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │ Make Better  │
+              └──────┬───────┘
+                     │
+                     └──────────────↺
 ```
 
 I'm less interested in collecting technologies and more interested in understanding **why systems behave the way they do**.
 
-Give me something to automate, debug, design, or figure out and I'll probably disappear down the rabbit hole.
+There's always another layer underneath.
 
 ---
 
-## 📊 GitHub
+## 🛠️ Toolbox
 
 <div align="center">
 
-![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&hide_border=true)
+### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,go,bash,javascript" />
 
-</div>
+<br/><br/>
 
----
+### Infrastructure & Cloud Native
 
-## 🐍 Contributions
+<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes,linux" />
 
-<div align="center">
+<br/><br/>
 
-![Snake animation](https://raw.githubusercontent.com/AnjaliPriyaa/AnjaliPriyaa/output/github-contribution-grid-snake.svg)
+### Cloud & Engineering
+
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,jenkins" />
 
 </div>
 
@@ -216,11 +270,10 @@ Give me something to automate, debug, design, or figure out and I'll probably di
 ```bash
 $ interests --list
 
-> engineering things that make me curious
-> learning how systems actually work
-> experimenting with new ideas
-> building things from scratch
+> learning something completely unnecessary at 2 AM
+> building things just to understand how they work
 > travelling whenever possible
+> finding good food
 > coffee
 > probably debugging something I broke myself
 ```
@@ -233,6 +286,6 @@ $ interests --list
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnjaliPriyaa\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AnjaliPriyaa\&style=flat-square)
 
 </div>
