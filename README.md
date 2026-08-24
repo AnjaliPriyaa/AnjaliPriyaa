@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anjali%20Priya&fontSize=55&fontAlignY=35&desc=Platform%20Engineering%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Anjali%20Priya&fontSize=55&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Platform%20Engineering%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+infrastructure+that+scales.;Automating+the+boring+parts.;Making+platforms+reliable+by+design.;Securing+infrastructure+before+production.;Exploring+where+AI+meets+infrastructure." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer+who+likes+building+systems.;Python+%E2%80%A2+Go+%E2%80%A2+Infrastructure+%E2%80%A2+Cloud;From+APIs+to+distributed+infrastructure.;Automate.+Scale.+Observe.+Improve.;Currently+exploring+AI+%C3%97+Infrastructure." />
 
 <br/>
 
@@ -13,331 +13,397 @@
 
 ---
 
-## `whoami`
+## `~/about-me $ whoami`
 
-```yaml
-name: Anjali Priya
+```python id="1dwxfs"
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Anjali Priya"
 
-focus:
-  - Platform Engineering
-  - Infrastructure Automation
-  - Cloud Native Systems
-  - Reliability Engineering
-  - DevSecOps
-  - AI Infrastructure
+        self.languages = [
+            "Python",
+            "Go",
+            "Bash",
+            "JavaScript"
+        ]
 
-languages:
-  - Go
-  - Python
-  - Bash
-  - JavaScript
+        self.engineering = [
+            "Software Engineering",
+            "Platform Engineering",
+            "Infrastructure Engineering",
+            "Cloud Native Systems",
+            "DevSecOps",
+            "AI Systems"
+        ]
 
-currently_exploring:
-  - Distributed Systems
-  - Agentic Workflows
-  - AI Infrastructure
-  - LLM-powered Automation
+        self.currently_exploring = [
+            "Distributed Systems",
+            "AI Infrastructure",
+            "Agentic Systems"
+        ]
 
-philosophy:
-  automate: "anything I have to do twice"
-  infrastructure: "should be reproducible"
-  security: "belongs in the pipeline"
-  reliability: "should be designed, not patched"
+    def philosophy(self):
+        return "Understand it → Build it → Automate it → Make it reliable"
+```
+
+I’m a **Software Engineer who enjoys building systems and understanding how things work underneath**.
+
+My work spans software development, infrastructure automation, cloud-native platforms, APIs, developer tooling, security, and reliability.
+
+I primarily work with **Python and Go**, and I enjoy problems where software has to interact with real infrastructure.
+
+---
+
+# ⚡ Engineering, End to End
+
+What interests me isn't one particular tool.
+
+It's the entire path from **code → system → production**.
+
+```text id="w8uwco"
+                        ┌─────────────────┐
+                        │      CODE       │
+                        │   Python / Go   │
+                        └────────┬────────┘
+                                 │
+                                 ▼
+                        ┌─────────────────┐
+                        │ APIs & Tooling  │
+                        └────────┬────────┘
+                                 │
+                                 ▼
+                  ┌─────────────────────────┐
+                  │ Automation & Platforms  │
+                  └────────────┬────────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        Infrastructure     Containers        CI / CD
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │ Production Systems  │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┼──────────┐
+                    ▼          ▼          ▼
+                Security   Reliability  Observability
 ```
 
 ---
 
-## ⚡ What I Build
+# 🧩 What I Can Engineer
 
-I like working on the layer **between applications and infrastructure** — the systems that make software easier to deploy, operate, secure, and scale.
+### `01. software`
 
-```text
-                        ┌──────────────────────┐
-                        │     Developers       │
-                        └──────────┬───────────┘
-                                   │
-                                   ▼
-                        ┌──────────────────────┐
-                        │  Platform / Tooling  │
-                        └──────────┬───────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-              ▼                    ▼                    ▼
-       ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
-       │     IaC     │      │   CI / CD   │      │  Security   │
-       │  Terraform  │      │  Automation │      │  Controls   │
-       └──────┬──────┘      └──────┬──────┘      └──────┬──────┘
-              │                    │                    │
-              └────────────────────┼────────────────────┘
-                                   │
-                                   ▼
-                     ┌────────────────────────┐
-                     │ Kubernetes / OpenShift │
-                     └────────────┬───────────┘
-                                  │
-                   ┌──────────────┼──────────────┐
-                   ▼              ▼              ▼
-                Cloud        Observability   Reliability
+I write software and automation primarily using **Python and Go**.
+
+My work includes:
+
+* APIs and integrations
+* Infrastructure tooling
+* Automation frameworks
+* CLI-style tooling
+* Data and configuration processing
+* Health-check and validation systems
+* Concurrent infrastructure operations
+* LLM-powered workflows
+
+```python id="yccfzi"
+def engineer(problem):
+    context = understand(problem)
+    solution = design(context)
+    system = build(solution)
+    validate(system)
+    return improve(system)
 ```
+
+`Python` `Go` `Bash` `JavaScript` `REST APIs` `MySQL` `Kafka`
 
 ---
 
-## `$ capabilities --list`
+### `02. infrastructure`
 
-### 🏗️ Infrastructure Engineering
+I build software that **creates and controls infrastructure**.
 
-I can design and automate infrastructure using **Infrastructure as Code**, building reusable components instead of relying on manual provisioning.
-
-```text
-Requirements
-     ↓
-Terraform / IaC
-     ↓
-Reusable Modules
-     ↓
-Policy & Validation
-     ↓
-Cloud / Platform
-     ↓
-Repeatable Infrastructure
+```text id="0nb53n"
+                    Desired State
+                         │
+                         ▼
+                  ┌─────────────┐
+                  │  Terraform  │
+                  └──────┬──────┘
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+          Compute     Network      Platform
+             │           │           │
+             └───────────┼───────────┘
+                         ▼
+                   Actual State
 ```
+
+My experience includes infrastructure provisioning, reusable IaC components, configuration management, infrastructure lifecycle operations, policy enforcement, and cloud automation.
 
 `Terraform` `Ansible` `Packer` `Sentinel` `AWS` `Azure` `OCI`
 
 ---
 
-### ☸️ Platform Engineering
+### `03. platforms`
 
-I work with container platforms and the automation surrounding them — deployment, validation, security, health checks, and operational workflows.
+I work on the layer that allows applications and engineers to interact with infrastructure reliably.
 
-```text
-Code
- │
- ▼
-Build ──► Scan ──► Validate ──► Deploy
-                                  │
-                                  ▼
-                         Kubernetes / OpenShift
-                                  │
-                           ┌──────┴──────┐
-                           ▼             ▼
-                       Observe        Verify
-                           │             │
-                           └──────┬──────┘
-                                  ▼
-                              Improve
+```text id="kk6mhs"
+Developer
+    │
+    ▼
+┌───────────────┐
+│ Platform/API  │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│  Automation   │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────────────────┐
+│ Kubernetes / OpenShift    │
+└───────────────┬───────────┘
+                │
+                ▼
+         Infrastructure
 ```
 
 `Kubernetes` `OpenShift` `Docker` `EKS` `Tekton`
 
 ---
 
-### ⚙️ Automation & Tooling
+### `04. delivery`
 
-If an infrastructure workflow is repetitive, I probably want to automate it.
+For me, engineering doesn't stop when the code works locally.
 
-I build tooling around:
-
-* Infrastructure provisioning
-* Deployment workflows
-* REST APIs
-* Platform validation
-* Health checks
-* Runtime verification
-* Configuration management
-* CI/CD automation
-* Infrastructure lifecycle operations
-
-```python
-while manual_work:
-    understand()
-    automate()
-    validate()
-    observe()
+```text id="fr9sok"
+git push
+   │
+   ▼
+ Build
+   │
+   ▼
+ Test
+   │
+   ▼
+ Scan ───────X vulnerability
+   │
+   ▼
+ Validate
+   │
+   ▼
+ Deploy
+   │
+   ▼
+ Verify
+   │
+   ▼
+ Observe
 ```
 
-`Go` `Python` `Bash` `REST APIs`
+I build and improve CI/CD workflows around application and infrastructure delivery.
+
+`GitHub Actions` `Jenkins` `Tekton` `Harness`
 
 ---
 
-### 🔐 DevSecOps
+### `05. security`
 
-Security works better when it becomes part of the engineering workflow instead of a final gate.
+Security should be part of the system rather than something added before release.
 
-```text
-                  Software / Infrastructure
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-        SCA           Image Scan       Policy Check
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                       Validation
-                           │
-                      PASS │ FAIL
-                        ┌──┴──┐
-                        ▼     ▼
-                     Deploy  Fix
+```text id="x7pp2g"
+                 CODE
+                  │
+        ┌─────────┼─────────┐
+        ▼         ▼         ▼
+       SCA      Image     Policy
+                Scan      Check
+        │         │         │
+        └─────────┼─────────┘
+                  ▼
+              Validate
+                  │
+              ┌───┴───┐
+              ▼       ▼
+            PASS     FAIL
+              │       │
+           Deploy    Fix
 ```
 
-Experience across:
-
-`Trivy` `BlackDuck` `Aqua Security` `Veracode` `JFrog Xray`
-
-`SCA` `Container Security` `CIS` `NIST` `Policy as Code`
+`SCA` `Container Security` `Trivy` `BlackDuck` `Aqua Security` `Veracode` `JFrog Xray`
 
 ---
 
-### 📊 Reliability & Observability
+### `06. reliability`
 
-Deploying something is only half the job.
+I care about what happens **after deployment**.
 
-I work on making infrastructure **observable, verifiable, and easier to operate** through:
-
-```text
-Metrics ──────┐
-Logs ─────────┼──► Observe ──► Detect ──► Diagnose ──► Recover
-Health Checks ┤
-Validation ───┘
+```text id="j77ykk"
+                  Production
+                      │
+          ┌───────────┼───────────┐
+          ▼           ▼           ▼
+       Metrics       Logs      Health Checks
+          │           │           │
+          └───────────┼───────────┘
+                      ▼
+                    Detect
+                      │
+                      ▼
+                   Diagnose
+                      │
+                      ▼
+                    Recover
 ```
 
-`Dynatrace` `Splunk` `Monitoring` `Logging` `Health Checks`
+`Dynatrace` `Splunk` `Monitoring` `Logging` `Runtime Validation`
 
 ---
 
-## 🤖 Where I'm Heading
+# 🧠 The Kind of Problems I Like
 
-The part I'm increasingly interested in:
+```text id="ikjtkb"
+"Can we automate this?"
+          │
+          ▼
+"Can we make it reusable?"
+          │
+          ▼
+"Can we make it scale?"
+          │
+          ▼
+"How does it fail?"
+          │
+          ▼
+"Can we detect that failure?"
+          │
+          ▼
+"Can the system recover?"
+```
+
+Those questions are what pull me toward **software engineering, infrastructure, distributed systems, and reliability engineering**.
+
+---
+
+# 🤖 Now Exploring: AI × Systems
+
+AI gets much more interesting to me when it moves beyond a chat interface.
+
+```text id="szvgmc"
+                     User / System
+                          │
+                          ▼
+                   ┌─────────────┐
+                   │ LLM / Agent │
+                   └──────┬──────┘
+                          │
+                     Reason / Plan
+                          │
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+        APIs             Tools       Infrastructure
+          │               │               │
+          └───────────────┼───────────────┘
+                          ▼
+                       Execute
+                          │
+                          ▼
+                       Observe
+                          │
+                          ▼
+                       Reason
+```
+
+I'm exploring engineering problems around:
+
+**Agentic Systems** · **AI Infrastructure** · **Distributed Systems** · **LLM Applications** · **Tool Calling** · **AI Automation** · **LLM Observability**
+
+The question that interests me:
+
+> **How do we build AI systems that can safely interact with and reason about real infrastructure?**
+
+---
+
+# 🛠️ `~/toolbox`
 
 <div align="center">
 
-### AI × Infrastructure
+### Languages
 
-</div>
-
-Not just:
-
-```text
-prompt → LLM → response
-```
-
-but:
-
-```text
-                       Natural Language
-                              │
-                              ▼
-                      ┌───────────────┐
-                      │  AI / Agent   │
-                      └───────┬───────┘
-                              │
-                     Reason + Decide
-                              │
-              ┌───────────────┼───────────────┐
-              ▼               ▼               ▼
-           APIs            Tools         Infrastructure
-              │               │               │
-              └───────────────┼───────────────┘
-                              ▼
-                         Take Action
-                              │
-                              ▼
-                          Observe
-                              │
-                              ▼
-                         Reason Again
-```
-
-I'm exploring how **LLMs and agents can interact with real infrastructure systems** — executing operations, interpreting system state, automating troubleshooting, and helping engineers operate increasingly complex platforms.
-
-At the same time, I'm interested in the infrastructure underneath AI itself:
-
-`Distributed Systems` · `AI Workloads` · `GPU Infrastructure` · `Kubernetes` · `Agents` · `LLM Observability`
-
----
-
-## 🧰 Toolbox
-
-### `languages`
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### `infrastructure`
+### Infrastructure & Platforms
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge\&logo=redhatopenshift\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
 
-### `cloud`
+### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
-### `delivery`
+### Engineering
 
-![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-
----
-
-## 🧠 How I Think About Infrastructure
-
-```text
-                Build
-                  │
-                  ▼
-             ┌─────────┐
-       ┌────►│Automate │────┐
-       │     └─────────┘    │
-       │                    ▼
-   Improve              Validate
-       ▲                    │
-       │                    ▼
-    Observe ◄──────────── Deploy
-```
-
-> **Build it. Automate it. Secure it. Observe it. Improve it.**
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaliPriyaa&theme=transparent&hide_border=true" height="165"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 </div>
 
 ---
 
-## `ping anjali`
-
-Interested in **platform engineering, infrastructure automation, distributed systems, cloud-native engineering, DevSecOps, or AI infrastructure?**
-
-I'm always happy to connect with people building interesting systems.
+# 📊 `git stats`
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=AnjaliPriyaa&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliPriyaa&layout=compact&theme=transparent&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> let's build something`
+
+I like connecting with people working on **software engineering, infrastructure, distributed systems, platform engineering, open source, and AI systems.**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjali_Priya-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anjalipriya24/)
 [![GitHub](https://img.shields.io/badge/GitHub-AnjaliPriyaa-181717?style=for-the-badge\&logo=github)](https://github.com/AnjaliPriyaa)
-[![Medium](https://img.shields.io/badge/Medium-Read_My_Writing-000000?style=for-the-badge\&logo=medium)](https://medium.com/@anjalipriya_)
+[![Medium](https://img.shields.io/badge/Medium-Writing-000000?style=for-the-badge\&logo=medium)](https://medium.com/@anjalipriya_)
 
-<br/>
+<br/><br/>
 
-```text
-$ whoami
-> engineer who likes turning complex infrastructure into boring automation.
+```text id="1yd36h"
+Software Engineer
+     ↓
+Build systems
+     ↓
+Understand systems
+     ↓
+Automate systems
+     ↓
+Make systems better
+     ↓
+repeat()
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
